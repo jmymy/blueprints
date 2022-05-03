@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.4.3](https://github.com/GoogleCloudPlatform/blueprints/compare/gitops-blueprint-v0.4.2...gitops-blueprint-v0.4.3) (2022-05-03)
+
+
+### Bug Fixes
+
+* remove gitops ConfigManagement syncRevision field ([#179](https://github.com/GoogleCloudPlatform/blueprints/issues/179)) ([783380c](https://github.com/GoogleCloudPlatform/blueprints/commit/783380ce4e6c3f21e9e90055b3a88bada0410154))
+
 ### [0.4.2](https://github.com/GoogleCloudPlatform/blueprints/compare/gitops-blueprint-v0.4.1...gitops-blueprint-v0.4.2) (2022-02-02)
 
 
